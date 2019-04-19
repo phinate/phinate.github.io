@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lato);
 @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
 body {
-    font-family: 'Lato', 'Gill Sans', 'Gill Sans MT', 'Lato', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
     color: #FFF;
     background: #322f30;
     -webkit-font-smoothing: antialiased;
