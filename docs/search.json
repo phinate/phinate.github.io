@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "animations.html",
+    "href": "animations.html",
+    "title": "Animation Gallery",
+    "section": "",
+    "text": "A one-bin physics analysis, optimised to trade off uncertainty and signal/background ratio\n\n\n\n\n\n\n\nDifferentiable histograms made of KDEs:\n\n\n\n \n\n\n\nUseful for binning optimisation!\n\n\n\n\n\n\n\nTraining a summary statistic to discover a new (toy) particle!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello! I’m Nathan :)",
+    "section": "",
+    "text": "My path through education and work has revolved around maths and physics, with my PhD focusing on researching the intersection of machine learning and particle physics. If you’ve heard of me in a professional context, it’s probably for my work on differentiable programming, which you can check out below. I’m also a big fan of making animated plots, which you can browse at your leisure in the Gallery (matplotlib is amazing, and you should cite it in your next paper).\nHere are some things I’ve worked on:\n\n\n\nA Python library for differentiable programming in high-energy physics\nCode\n\n\n\nEnd-to-end optimisation of summary statistics using a differentiable particle physics workflow\nPaper, Code\n\n\n\nNormalizing flows to interpolate between new physics models\nPaper + Code coming soon!\n\n\n\nSeminar on differentiable programming applied to collider physics\nVideo + Slides\n\n\n\nAn introduction to coding your own differentiable programming solutions for high-energy physics\nCode\n\n\n\nDomain-specific preprocessing utils for a classification ML pipeline\nCode\n\n\n\nScaffolding for a Bayesian Network Python package (just needs some Pyro to do the inference!)\nCode\n\n\n\n\nThere’s plenty more on my GitHub if you’re short of projects to look through, and we can always chat more if you’re interested in me or my work! Just shoot me an email (phinate at pm dot me), or reach out on Twitter or Twitch."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
