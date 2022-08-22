@@ -1,0 +1,21 @@
+---
+title: Hello! I'm  <span style="color:#17becf">Nathan</span> :)
+---
+
+**I'm someone who loves to code, play with AI, make music, and do research.**
+
+My path through education and work has revolved around maths and physics, with my PhD focusing on researching the **intersection of machine learning and particle physics**. If you've heard of me in a professional context, it's probably for my work on **differentiable programming**, which you can check out below. I'm also a big fan of making animated plots, which you can browse at your leisure in the [Gallery](animations.qmd) (matplotlib is amazing, and [you should cite it in your next paper](https://matplotlib.org/stable/users/project/citing.html#:~:text=If%20Matplotlib%20contributes%20to%20a,90%2D95%2C%202007.)).
+
+Here are some things I've worked on:
+
+| | |
+|:-------------:|:-------------:|:-------------:|
+| A Python library for differentiable programming in high-energy physics |[Code](http://github.com/gradhep/relaxed) | <img width="100%" src="images/relaxed-logo.png">|
+|End-to-end optimisation of summary statistics using a differentiable particle physics workflow|[Paper](https://arxiv.org/abs/2203.05570), [Code](http://github.com/gradhep/neos)|<img width="50%" src="images/neos-logo.png"> |
+| Normalizing flows to interpolate between new physics models |Paper + Code coming soon! | <img width="60%" src="images/flows.png">|
+|Seminar on differentiable programming applied to collider physics |[Video + Slides](https://indico.slac.stanford.edu/event/7206/attachments/1620/4258/video1387146866.mp4) | |
+|An introduction to coding your own differentiable programming solutions for high-energy physics | [Code](https://github.com/gradhep/differentiable-analysis-examples) | |
+|Domain-specific preprocessing utils for a classification ML pipeline| [Code](https://github.com/phinate/shml) | |
+|Scaffolding for a Bayesian Network Python package (just needs some Pyro to do the inference!) | [Code](https://github.com/phinate/shml)|
+
+There's plenty more on [my GitHub](http://github.com/phinate) if you're short of projects to look through, and we can always chat more if you're interested in me or my work! Just shoot me an email (phinate at pm dot me), or reach out on [Twitter](http://twitter.com/phi_nate) or [Twitch](http://twitch.tv/phi_nate).

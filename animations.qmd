@@ -1,0 +1,34 @@
+---
+title: "Animation Gallery"
+---
+
+
+<p align="center" width="100%">
+   <h2>A one-bin physics analysis, optimised to trade off uncertainty and signal/background ratio</h2> 
+</p>
+<p align="center" width="100%">
+    <img width="96%" src="images/anopt.gif">
+</p> 
+
+
+
+<p align="center" width="100%">
+   <h2>Differentiable histograms made of KDEs:</h2> 
+</p>
+<p align="center" width="100%">
+    <img width="48%" src="images/goodkde.gif">
+    <img width="48%" src="images/kde_bins.gif">
+</p>
+<p align="center" width="100%">
+   <h3>Useful for binning optimisation!</h3> 
+</p>
+<p align="center" width="100%">
+    <img width="96%" src="images/binopt.gif">
+</p> 
+
+<p align="center" width="100%">
+   <h2>Training a summary statistic to discover a new (toy) particle!</h2> 
+</p>
+<p align="center" width="100%">
+    <img width="96%" src="images/neos.gif">
+</p> 

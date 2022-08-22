@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Nathan Simpson"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: animations.qmd
+        text: Animation Gallery
+    right:
+      - icon: github
+        href: http://github.com/phinate
+      - icon: twitch
+        href: http://twitch.tv/phi_nate
+      - icon: twitter
+        href: http://twitter.com/phi_nate
+
+format:
+  html:
+    theme: theme.scss 
+    css: styles.css
+    toc: true
+
+
+
