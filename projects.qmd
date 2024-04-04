@@ -1,0 +1,14 @@
+Here are some things I'm proud of:
+
+| | |
+|:-------------|:-------------|:-------------:|
+| My thesis! Titled *Data Analysis in High-Energy Physics as a Differentiable Program*.   |[Web version](https://phinate.github.io/thesis/), [PDF version (with DOI)](https://zenodo.org/records/7520315) | <img width="60%" src="images/firework.png">|
+| A Python library for differentiable operations. |[Code](http://github.com/gradhep/relaxed) | <img width="100%" src="images/relaxed-logo.png">|
+| Introduction to AI for clinical scientists @ the Alan Turing Institute. | [Video](https://youtu.be/2z9nn4txkd0?si=bfknqlviyjyxfash)| 
+|End-to-end learning of a neural network-based summary statistic. |[Paper](https://arxiv.org/abs/2203.05570), [Code](http://github.com/gradhep/neos)|<img width="50%" src="images/neos-logo.png"> |
+| Using normalizing flows to interpolate between new physics models. |See the [relevant section of my thesis](https://phinate.github.io/thesis/flow-interp.html) | <img width="60%" src="images/flows.png">|
+|Seminar @ SLAC on differentiable programming applied to collider physics. |[Video + Slides](https://indico.slac.stanford.edu/event/7206/attachments/1620/4258/video1387146866.mp4) | |
+<!-- |Domain-specific preprocessing utils for a classification ML pipeline| [Code](https://github.com/phinate/shml) | |
+|Scaffolding for a Bayesian Network Python package (just needs some Pyro to do the inference!) | [Code](https://github.com/phinate/shml)| -->
+
+There's plenty more on [my GitHub](http://github.com/phinate), or you can visit the [animation gallery](animations.qmd). I'm always happy to chat more if you're interested in me or my work (especially if you're early in your career!). Just shoot me an email (phinate at pm dot me), or reach out on [Twitter](http://twitter.com/phi_nate).

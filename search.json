@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "animations.html",
+    "href": "animations.html",
+    "title": "Animation Gallery",
+    "section": "",
+    "text": "A one-bin physics analysis, optimised to trade off uncertainty and signal/background ratio\n\n\n\n\n\n\n\nDifferentiable histograms made of KDEs:\n\n\n\n \n\n\n\nUseful for binning optimisation!\n\n\n\n\n\n\n\nTraining a summary statistic to discover a new (toy) particle!"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Nathan Simpson",
+    "section": "",
+    "text": "My thesis! Titled Data Analysis in High-Energy Physics as a Differentiable Program.\nWeb version, PDF version (with DOI)\n\n\n\nA Python library for differentiable operations.\nCode\n\n\n\nIntroduction to AI for clinical scientists @ the Alan Turing Institute.\nVideo\n\n\n\nEnd-to-end learning of a neural network-based summary statistic.\nPaper, Code\n\n\n\nUsing normalizing flows to interpolate between new physics models.\nSee the relevant section of my thesis\n\n\n\nSeminar @ SLAC on differentiable programming applied to collider physics.\nVideo + Slides\n\n\n\n\n\nThere’s plenty more on my GitHub, or you can visit the animation gallery. I’m always happy to chat more if you’re interested in me or my work (especially if you’re early in your career!). Just shoot me an email (phinate at pm dot me), or reach out on Twitter."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello! I’m Nathan :)",
+    "section": "",
+    "text": "Right now, I work at the Alan Turing Institute in the Research Engineering Group. Here’s what I’m focusing on right now.\nWant to know more? Check out my projects page, or browse the animation gallery, where I’ve collected some of my favourite visualisations from my time in research.\nThanks for stopping by! ✨"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
