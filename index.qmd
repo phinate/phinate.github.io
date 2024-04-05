@@ -4,7 +4,7 @@ title: Hello! I'm  <span style="color:#17becf">Nathan</span> :)
 
 **I build software for research, develop and apply machine learning methods, and care about outreach and community building.**
 
-Right now, I work at the [Alan Turing Institute](https://turing.ac.uk/) in the [Research Engineering Group](https://www.turing.ac.uk/work-turing/research/research-engineering-group). [Here's what I'm focusing on right now](https://www.turing.ac.uk/research/research-projects/ai-numerical-weather-prediction-nwp-ai4nwp).
+Right now, I work at the [Alan Turing Institute](https://turing.ac.uk/) in the [Research Engineering Group](https://www.turing.ac.uk/work-turing/research/research-engineering-group). [Here's what I'm focusing on currently](https://www.turing.ac.uk/research/research-projects/ai-numerical-weather-prediction-nwp-ai4nwp).
 
 Want to know more? Check out my [projects page](projects.qmd), or [browse the animation gallery](animations.qmd), where I've collected some of my favourite visualisations from my time in research. 
 
